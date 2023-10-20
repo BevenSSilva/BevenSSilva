@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BevenSSilva
 - 👀 I’m interested in not coding
 - 🌱 I’m currently trying not to learn coding
-- 💞️ I’m looking to mindy my own buisness
+- 💞️ I’m looking to mind my own buisness
 - 📫 please dont reach out to me
 
 <!---
