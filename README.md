@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BevenSSilva
-- 👀 I’m interested in not coding
-- 🌱 I’m currently trying not to learn coding
-- 💞️ I’m looking to mind my own buisness
-- 📫 please dont reach out to me
+- 👀 I’m interested in coding
+- 🌱 I’m currently trying to learn coding
+- 💞️ I’m looking to collab with experienced programmers
+- 📫
 
 <!---
 BevenSSilva/BevenSSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
